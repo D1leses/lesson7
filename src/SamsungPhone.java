@@ -1,4 +1,3 @@
-// Класс-наследник SamsungPhon
 class SamsungPhone extends Phone {
     public SamsungPhone(String model, long number, int weight) {
         super(model, number, weight);
